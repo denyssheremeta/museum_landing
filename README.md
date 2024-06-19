@@ -1,6 +1,6 @@
 ## Museum landing pages
 
-Responsive landings according to design created using best practices. SEO & accessibility optimized
+Responsive landings according to design created using best practices. An SEO, performance & accessibility optimized.
 Technologies: HTML5, CSS3, SCSS, Gulp, JavaScript
 
 - [DEMO LINK](https://denyssheremeta.github.io/museum_landing/)
